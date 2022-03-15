@@ -1,0 +1,112 @@
+﻿
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.main-header {
+    background-color: #6a7185;
+    color: white;
+}
+
+.image-size {
+    width: 200px;
+}
+
+.bottom-color {
+    margin-top: 3px;
+    width: 150px;
+    border-bottom: 2px solid white;
+}
+
+.font-icon-info {
+    color: #6a7185;
+    margin-right: 5px;
+}
+
+.gvecolr {
+    color: #ffc107 !important;
+}
+
+.info-about {
+    margin-left: 265px;
+}
+
+.remove-space {
+    margin-bottom: 0 !important;
+}
+
+.heading-title {
+    color: #6a7185;
+    text-transform: uppercase;
+}
+
+.heading-bottom-border {
+    margin-top: 3px;
+    margin-bottom: 3px;
+    width: 100%;
+    border-bottom: 2px solid #6a7185;
+}
+
+.experties-div {
+    margin-top: 20px;
+    margin-right: 40px !important;
+    margin-left: 40px !important;
+}
+
+.title-color {
+    color: #6a7185;
+}
+
+.text-color {
+    color: #6a7185;
+}
+
+.experience-div {
+    margin-top: 10px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.certificate-div {
+    margin-top: 10px;
+    margin-right: 40px;
+    margin-left: 40px;
+    background-image: url('../image/background.svg');
+    background-size: cover;
+}
+
+.awards-div {
+    margin-top: 10px;
+    margin-right: 40px;
+    margin-left: 40px;
+    background-image: url('../image/background.svg');
+    background-size: cover;
+}
+
+.educations-div {
+    margin-top: 10px;
+    margin-right: 40px;
+    margin-left: 40px;
+    background-image: url('../image/background.svg');
+    background-size: cover;
+}
+
+.interests-div {
+    margin-top: 10px;
+    margin-right: 40px;
+    margin-left: 40px;
+    background-image: url('../image/background.svg');
+    background-size: cover;
+}
+
+
+.font-icon-language {
+    color: #6a7185;
+    font-size: 40px;
+}
+
+.interest-icon {
+    color: #6a7185;
+    font-size: 18px;
+    margin-right: 5px;
+}
